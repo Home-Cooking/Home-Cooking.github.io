@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "1a7cd5fdf7c2838ffd67ae306c73a754",
-"index.html": "e0be36a88b965a6b6023fc6e5b4e3985",
-"/": "e0be36a88b965a6b6023fc6e5b4e3985",
-"main.dart.js": "f969b127b988a577befc0a8f1d66d85e",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "965a20c692d039824d957f137ab5a5c7",
+"/": "965a20c692d039824d957f137ab5a5c7",
+"main.dart.js": "cf22a4bbc69cd792f351c2eae500a42b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -59,11 +58,7 @@ const RESOURCES = {
 "assets/assets/fonts/Content-Bold.ttf": "cbd836605feb85369a3752cdf2b50bbe",
 "assets/assets/fonts/Battambang-Bold.ttf": "02e3f317944b254e7909a0167631ac97",
 "assets/assets/fonts/Battambang-Regular.ttf": "0af38f10ae3edd149636b62c628fc6e5",
-"assets/assets/fonts/Content-Regular.ttf": "d299148e167ea7591f150cfa2f8170d2",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/assets/fonts/Content-Regular.ttf": "d299148e167ea7591f150cfa2f8170d2"
 };
 
 // The application shell files that are downloaded before a service worker can
